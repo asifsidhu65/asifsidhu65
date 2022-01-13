@@ -16,7 +16,7 @@ Working in Software development industry for more then 7 years and have worked i
 </p>
 
 
-<h3><img src='https://raw.githubusercontent.com/moeezalikhan/moeezalikhan/main/checked-mark.png'/> Languages </h3>
+<h3><img src='https://raw.githubusercontent.com/asifsidhu65/asifsidhu65/main/checked-mark.png'/> Languages </h3>
 <p>
 
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -25,22 +25,22 @@ Working in Software development industry for more then 7 years and have worked i
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 
 </p>
-<h3> <img src='https://raw.githubusercontent.com/moeezalikhan/moeezalikhan/main/checked-mark.png'/> Cloud Services</h3>
+<h3> <img src='https://raw.githubusercontent.com/asifsidhu65/asifsidhu65/main/checked-mark.png'/> Cloud Services</h3>
 <p>
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
 </p>
-<h3><img src='https://raw.githubusercontent.com/moeezalikhan/moeezalikhan/main/checked-mark.png'/> Framework </h3>
+<h3><img src='https://raw.githubusercontent.com/asifsidhu65/asifsidhu65/main/checked-mark.png'/> Framework </h3>
 <p>
   <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
   <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
 </p>
 
-<h3><img src='https://raw.githubusercontent.com/moeezalikhan/moeezalikhan/main/checked-mark.png'/> Project Models</h3>
+<h3><img src='https://raw.githubusercontent.com/asifsidhu65/asifsidhu65/main/checked-mark.png'/> Project Models</h3>
  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> Saas based application | Scraping Data | API Centric
 
-<h3> <img src='https://raw.githubusercontent.com/moeezalikhan/moeezalikhan/main/checked-mark.png'/> Front end Technologies </h3>
+<h3> <img src='https://raw.githubusercontent.com/asifsidhu65/asifsidhu65/main/checked-mark.png'/> Front end Technologies </h3>
 <p>
   <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
@@ -53,7 +53,7 @@ Working in Software development industry for more then 7 years and have worked i
   <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-<h3><img src='https://raw.githubusercontent.com/moeezalikhan/moeezalikhan/main/checked-mark.png'/> DataBase</h3>
+<h3><img src='https://raw.githubusercontent.com/asifsidhu65/asifsidhu65/main/checked-mark.png'/> DataBase</h3>
 <p>
   <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
@@ -62,7 +62,7 @@ Working in Software development industry for more then 7 years and have worked i
 
 </p>
 
-<h3> <img src='https://raw.githubusercontent.com/moeezalikhan/moeezalikhan/main/checked-mark.png'/> CI/CD </h3>
+<h3> <img src='https://raw.githubusercontent.com/asifsidhu65/asifsidhu65/main/checked-mark.png'/> CI/CD </h3>
 <p>
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
@@ -70,7 +70,7 @@ Working in Software development industry for more then 7 years and have worked i
 </p>
 
 
-<h3><img src='https://raw.githubusercontent.com/moeezalikhan/moeezalikhan/main/checked-mark.png'/> Frameworks / Technologies:</h3>
+<h3><img src='https://raw.githubusercontent.com/asifsidhu65/asifsidhu65/main/checked-mark.png'/> Frameworks / Technologies:</h3>
  Serverless Apps and Microservices
 ✓ ReactJS
 ✓ Amazon Web Services
@@ -87,7 +87,7 @@ Working in Software development industry for more then 7 years and have worked i
 ✓ Saas based application
 ✓ API Centric
 
-<h3><img src='https://raw.githubusercontent.com/moeezalikhan/moeezalikhan/main/checked-mark.png'/> CMS / Ecommerce:</h3>
+<h3><img src='https://raw.githubusercontent.com/asifsidhu65/asifsidhu65/main/checked-mark.png'/> CMS / Ecommerce:</h3>
 ✓ Shopify
 ✓ WordPress
 ✓ OpenCart
@@ -95,35 +95,35 @@ Working in Software development industry for more then 7 years and have worked i
 ✓ Bagisto
 ✓ Wagtail
 
-<h3><img src='https://raw.githubusercontent.com/moeezalikhan/moeezalikhan/main/checked-mark.png'/> Databases / Search Engines:</h3>
+<h3><img src='https://raw.githubusercontent.com/asifsidhu65/asifsidhu65/main/checked-mark.png'/> Databases / Search Engines:</h3>
 ✓ DynamoDB,
 ✓ SphinxSearch
 ✓ Apache Solr
 ✓ ElasticSearch
 
-<h3><img src='https://raw.githubusercontent.com/moeezalikhan/moeezalikhan/main/checked-mark.png'/> Servers (Installation & Configuration):</h3>
+<h3><img src='https://raw.githubusercontent.com/asifsidhu65/asifsidhu65/main/checked-mark.png'/> Servers (Installation & Configuration):</h3>
 ✓ Nginx
 ✓ Passenger
 ✓ Apache
 ✓ Apache Tomcat
 
-<h3><img src='https://raw.githubusercontent.com/moeezalikhan/moeezalikhan/main/checked-mark.png'/> DevTools:</h3>
+<h3><img src='https://raw.githubusercontent.com/asifsidhu65/asifsidhu65/main/checked-mark.png'/> DevTools:</h3>
 ✓ Git (command line proficient)
 ✓ Maven
 ✓ NPM
 ✓ Yarn
 
-<h3><img src='https://raw.githubusercontent.com/moeezalikhan/moeezalikhan/main/checked-mark.png'/> Payment Gateways:</h3>
+<h3><img src='https://raw.githubusercontent.com/asifsidhu65/asifsidhu65/main/checked-mark.png'/> Payment Gateways:</h3>
 ✓ Rapyd
 ✓ Stripe
 ✓ PayPal
 
-<h3><img src='https://raw.githubusercontent.com/moeezalikhan/moeezalikhan/main/checked-mark.png'/> CI/CD Tools:</h3>
+<h3><img src='https://raw.githubusercontent.com/asifsidhu65/asifsidhu65/main/checked-mark.png'/> CI/CD Tools:</h3>
 ✓ Travis
 ✓ GitHub Actions
 ✓ Bitbucket Pipelines
 
-<h3><img src='https://raw.githubusercontent.com/moeezalikhan/moeezalikhan/main/checked-mark.png'/>  I follow the agile best practices</h3>
+<h3><img src='https://raw.githubusercontent.com/asifsidhu65/asifsidhu65/main/checked-mark.png'/>  I follow the agile best practices</h3>
 ✓ Daily Standups
 ✓ Backlog grooming meeting
 ✓ Demo Meeting
