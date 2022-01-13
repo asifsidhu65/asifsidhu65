@@ -8,7 +8,7 @@
 
 
 <p>
-Working in Software development industry for more then 6 years and have worked in a wide range of applications & technologies.
+Working in Software development industry for more then 7 years and have worked in a wide range of applications & technologies.
 
  I took part in projects of different sizes and types from large Enterprise Fintech applications for Europian government to small business processes automation tools for StartUps.
 
@@ -20,7 +20,7 @@ Working in Software development industry for more then 6 years and have worked i
 <p>
 
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
+  <img alt="node" src="https://img.shields.io/badge/node-33ff00?style=for-the-badge&logo=node&color=green" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 
 </p>
 <h3> <img src='https://raw.githubusercontent.com/moeezalikhan/moeezalikhan/main/checked-mark.png'/> Cloud Services</h3>
