@@ -30,9 +30,30 @@ Working in Software development industry for more then 7 years and have worked i
 <p>
   <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
   <img alt="Flask" src="https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF&label=" />
+	<img alt="Fast API" src="https://img.shields.io/static/v1?style=for-the-badge&message=FastAPI&color=009688&logo=FastAPI&logoColor=FFFFFF&label=" />
   <img alt="Selenium" src="https://img.shields.io/static/v1?style=for-the-badge&message=Selenium&color=43B02A&logo=Selenium&logoColor=FFFFFF&label=" />
-  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+  <img alt="CakePhp" src="https://img.shields.io/static/v1?style=for-the-badge&message=CakePHP&color=D33C43&logo=CakePHP&logoColor=FFFFFF&label=" />
+	<img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
+
+<h3> <img src='https://raw.githubusercontent.com/asifsidhu65/asifsidhu65/main/checked-mark.png'/> Front end Technologies </h3>
+<p>
+  <img alt="Angular" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
+	<img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
+  <img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img alt="Html5" src="https://img.shields.io/static/v1?style=for-the-badge&message=HTML5&color=E34F26&logo=HTML5&logoColor=FFFFFF&label=" />
+	<img alt="" src="https://img.shields.io/static/v1?style=for-the-badge&message=Quasar&color=1976D2&logo=Quasar&logoColor=FFFFFF&label=" />
+  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
+</p>
+
+<h3><img src='https://raw.githubusercontent.com/asifsidhu65/asifsidhu65/main/checked-mark.png'/> Database</h3>
+<p>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img alt="SqlLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img alt="MongoDB" src="https://img.shields.io/static/v1?style=for-the-badge&message=MongoDB&color=47A248&logo=MongoDB&logoColor=FFFFFF&label=" />
+
 </p>
 
 <h3> <img src='https://raw.githubusercontent.com/asifsidhu65/asifsidhu65/main/checked-mark.png'/> Cloud Services</h3>
@@ -40,31 +61,6 @@ Working in Software development industry for more then 7 years and have worked i
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
  <img alt="DigitalOcean" src="https://img.shields.io/static/v1?style=for-the-badge&message=DigitalOcean&color=0080FF&logo=DigitalOcean&logoColor=FFFFFF&label=" />
-</p>
-
-<h3><img src='https://raw.githubusercontent.com/asifsidhu65/asifsidhu65/main/checked-mark.png'/> Project Models</h3>
- <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" /> Saas based application | Scraping Data | API Centric
-
-<h3> <img src='https://raw.githubusercontent.com/asifsidhu65/asifsidhu65/main/checked-mark.png'/> Front end Technologies </h3>
-<p>
-  <img alt="React" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D" />
-  <img alt="Angular" src="https://img.shields.io/badge/AngularJS-E23237?style=for-the-badge&logo=angularjs&logoColor=white" />
-  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" />
-  <img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
-  <img alt="JQuery" src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img alt="Html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-  <img alt="Tailwind CSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
-</p>
-
-<h3><img src='https://raw.githubusercontent.com/asifsidhu65/asifsidhu65/main/checked-mark.png'/> DataBase</h3>
-<p>
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img alt="SqlLite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" />
-  <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white" />
-
 </p>
 
 <h3> <img src='https://raw.githubusercontent.com/asifsidhu65/asifsidhu65/main/checked-mark.png'/> CI/CD </h3>
@@ -75,30 +71,13 @@ Working in Software development industry for more then 7 years and have worked i
 </p>
 
 
-<h3><img src='https://raw.githubusercontent.com/asifsidhu65/asifsidhu65/main/checked-mark.png'/> Frameworks / Technologies:</h3>
- Serverless Apps and Microservices
-✓ ReactJS
-✓ Amazon Web Services
-✓ Symfony
-✓ Codeignitor
-✓ Spring MVC
-✓ Spring Boot
-✓ Kubernetes
-✓ Bash scripting
-✓ NodeJs
-
-<h3>Project Models<h/3>
-✓ Scraping Data
-✓ Saas based application
-✓ API Centric
-
 <h3><img src='https://raw.githubusercontent.com/asifsidhu65/asifsidhu65/main/checked-mark.png'/> CMS / Ecommerce:</h3>
-✓ Shopify
-✓ WordPress
-✓ OpenCart
-✓ Spree
-✓ Bagisto
-✓ Wagtail
+<p>
+	<img src='https://img.shields.io/static/v1?style=for-the-badge&message=Shopify&color=222222&logo=Shopify&logoColor=7AB55C&label=' />
+	<img src='https://img.shields.io/static/v1?style=for-the-badge&message=Wagtail&color=43B1B0&logo=Wagtail&logoColor=FFFFFF&label=' />
+	<img src='https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=21759B&logo=WordPress&logoColor=FFFFFF&label=' />
+</p>
+
 
 <h3><img src='https://raw.githubusercontent.com/asifsidhu65/asifsidhu65/main/checked-mark.png'/> Databases / Search Engines:</h3>
 ✓ DynamoDB,
