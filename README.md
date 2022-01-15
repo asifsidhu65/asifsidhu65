@@ -17,24 +17,29 @@ Working in Software development industry for more then 7 years and have worked i
 
 
 <h3><img src='https://raw.githubusercontent.com/asifsidhu65/asifsidhu65/main/checked-mark.png'/> Languages </h3>
+
 <p>
 
   <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img alt="node" src="https://img.shields.io/badge/node-33ff00?style=for-the-badge&logo=node&color=green" />
   <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" /> 
   <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-
 </p>
+
+<h3><img src='https://raw.githubusercontent.com/asifsidhu65/asifsidhu65/main/checked-mark.png'/> Framework </h3>
+<p>
+  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img alt="Flask" src="https://img.shields.io/static/v1?style=for-the-badge&message=Flask&color=000000&logo=Flask&logoColor=FFFFFF&label=" />
+  <img alt="Selenium" src="https://img.shields.io/static/v1?style=for-the-badge&message=Selenium&color=43B02A&logo=Selenium&logoColor=FFFFFF&label=" />
+  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
+  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
+
 <h3> <img src='https://raw.githubusercontent.com/asifsidhu65/asifsidhu65/main/checked-mark.png'/> Cloud Services</h3>
 <p>
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
   <img alt="Amazon AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-</p>
-<h3><img src='https://raw.githubusercontent.com/asifsidhu65/asifsidhu65/main/checked-mark.png'/> Framework </h3>
-<p>
-  <img alt="Sass" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" />
-  <img alt="Laravel" src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
-  <img alt="Django" src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+ <img alt="DigitalOcean" src="https://img.shields.io/static/v1?style=for-the-badge&message=DigitalOcean&color=0080FF&logo=DigitalOcean&logoColor=FFFFFF&label=" />
 </p>
 
 <h3><img src='https://raw.githubusercontent.com/asifsidhu65/asifsidhu65/main/checked-mark.png'/> Project Models</h3>
