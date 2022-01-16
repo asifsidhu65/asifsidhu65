@@ -56,6 +56,14 @@ Working in Software development industry for more then 7 years and have worked i
 
 </p>
 
+<h3><img src='https://raw.githubusercontent.com/asifsidhu65/asifsidhu65/main/checked-mark.png'/> CMS / Ecommerce:</h3>
+<p>
+	<img src='https://img.shields.io/twitter/url?color=green&label=Django%20CMS&style=for-the-badge&url=https%3A%2F%2Fwww.django-cms.org%2F' />
+	<img src='https://img.shields.io/static/v1?style=for-the-badge&message=Shopify&color=222222&logo=Shopify&logoColor=7AB55C&label=' />
+	<img src='https://img.shields.io/static/v1?style=for-the-badge&message=Wagtail&color=43B1B0&logo=Wagtail&logoColor=FFFFFF&label=' />
+	<img src='https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=21759B&logo=WordPress&logoColor=FFFFFF&label=' />
+</p>
+
 <h3> <img src='https://raw.githubusercontent.com/asifsidhu65/asifsidhu65/main/checked-mark.png'/> Cloud Services</h3>
 <p>
   <img alt="Google Cloud" src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
@@ -63,49 +71,42 @@ Working in Software development industry for more then 7 years and have worked i
  <img alt="DigitalOcean" src="https://img.shields.io/static/v1?style=for-the-badge&message=DigitalOcean&color=0080FF&logo=DigitalOcean&logoColor=FFFFFF&label=" />
 </p>
 
-<h3> <img src='https://raw.githubusercontent.com/asifsidhu65/asifsidhu65/main/checked-mark.png'/> CI/CD </h3>
+<h3>Other Skills</h3>
 <p>
-  <img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
-  <img alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-   TravisCI | Capistrano CI | BitBucket Pipeline | Ubuntu
+	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Elastic%20Search&color=005571&logo=Elastic&logoColor=FFFFFF&label=" />
+	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=NGINX&color=009639&logo=NGINX&logoColor=FFFFFF&label=" />
+	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Apache&color=D22128&logo=Apache&logoColor=FFFFFF&label=" />
+	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Jenkins&color=D24939&logo=Jenkins&logoColor=FFFFFF&label=" />
+	<img src="https://img.shields.io/twitter/url?color=green&label=Uwsgi&style=for-the-badge&url=https%3A%2F%2Fuwsgi-docs.readthedocs.io%2Fen%2Flatest%2F" />
+	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Gunicorn&color=499848&logo=Gunicorn&logoColor=FFFFFF&label" />
+	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Heroku&color=430098&logo=Heroku&logoColor=FFFFFF&label=" />
+	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Docker&color=2496ED&logo=Docker&logoColor=FFFFFF&label=" />
+	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Ubuntu&color=E95420&logo=Ubuntu&logoColor=FFFFFF&label=" />
+	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Linux+Mint&color=222222&logo=Linux+Mint&logoColor=87CF3E&label=" />
+	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Bitbucket&color=0052CC&logo=Bitbucket&logoColor=FFFFFF&label=" />
+	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitHub&color=181717&logo=GitHub&logoColor=FFFFFF&label=" />
+	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=GitLab&color=222222&logo=GitLab&logoColor=FCA121&label=" />
+	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Trello&color=0052CC&logo=Trello&logoColor=FFFFFF&label=" />
+	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Jira+Software&color=0052CC&logo=Jira+Software&logoColor=FFFFFF&label=" />
+	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Asana&color=273347&logo=Asana&logoColor=FFFFFF&label=" />
 </p>
-
-
-<h3><img src='https://raw.githubusercontent.com/asifsidhu65/asifsidhu65/main/checked-mark.png'/> CMS / Ecommerce:</h3>
-<p>
-	<img src='https://img.shields.io/static/v1?style=for-the-badge&message=Shopify&color=222222&logo=Shopify&logoColor=7AB55C&label=' />
-	<img src='https://img.shields.io/static/v1?style=for-the-badge&message=Wagtail&color=43B1B0&logo=Wagtail&logoColor=FFFFFF&label=' />
-	<img src='https://img.shields.io/static/v1?style=for-the-badge&message=WordPress&color=21759B&logo=WordPress&logoColor=FFFFFF&label=' />
-</p>
-
-
-<h3><img src='https://raw.githubusercontent.com/asifsidhu65/asifsidhu65/main/checked-mark.png'/> Databases / Search Engines:</h3>
-✓ DynamoDB,
-✓ SphinxSearch
-✓ Apache Solr
-✓ ElasticSearch
-
-<h3><img src='https://raw.githubusercontent.com/asifsidhu65/asifsidhu65/main/checked-mark.png'/> Servers (Installation & Configuration):</h3>
-✓ Nginx
-✓ Passenger
-✓ Apache
-✓ Apache Tomcat
 
 <h3><img src='https://raw.githubusercontent.com/asifsidhu65/asifsidhu65/main/checked-mark.png'/> DevTools:</h3>
-✓ Git (command line proficient)
-✓ Maven
-✓ NPM
-✓ Yarn
+<p>
+	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Git&color=F05032&logo=Git&logoColor=FFFFFF&label=" />
+	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=PyCharm&color=000000&logo=PyCharm&logoColor=FFFFFF&label=" />
+	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=PhpStorm&color=000000&logo=PhpStorm&logoColor=FFFFFF&label=" />
+	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=phpMyAdmin&color=6C78AF&logo=phpMyAdmin&logoColor=FFFFFF&label=" />
+	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=npm&color=CB3837&logo=npm&logoColor=FFFFFF&label=" />
+	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=Composer&color=885630&logo=Composer&logoColor=FFFFFF&label=" />
+	<img src="https://img.shields.io/static/v1?style=for-the-badge&message=PyPI&color=3775A9&logo=PyPI&logoColor=FFFFFF&label=" />
+</p>
 
 <h3><img src='https://raw.githubusercontent.com/asifsidhu65/asifsidhu65/main/checked-mark.png'/> Payment Gateways:</h3>
 ✓ Rapyd
 ✓ Stripe
 ✓ PayPal
-
-<h3><img src='https://raw.githubusercontent.com/asifsidhu65/asifsidhu65/main/checked-mark.png'/> CI/CD Tools:</h3>
-✓ Travis
-✓ GitHub Actions
-✓ Bitbucket Pipelines
+✓ Mangopay
 
 <h3><img src='https://raw.githubusercontent.com/asifsidhu65/asifsidhu65/main/checked-mark.png'/>  I follow the agile best practices</h3>
 ✓ Daily Standups
