@@ -4,7 +4,6 @@
 <p><b>Welcome to my page! </br> I'm Muhammad Asif Saleem, Fullstack Python Django & Flask Expert</b> </b></p>
 
 <a href='https://www.linkedin.com/in/muhammad-asif-saleem-sidhu/' ><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href='https://www.facebook.com/muhammad.a.saleem.908' ><img alt="Facebook" src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" /></a>
 
 
 <p>
